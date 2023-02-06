@@ -1,0 +1,2 @@
+# WinVerNew.nsh
+WinVerNew.nsh
